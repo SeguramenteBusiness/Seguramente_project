@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="Seguramente">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="design/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Seguramente</h3>
@@ -33,14 +33,14 @@
   <p align="center">
     Esteja de consciência segura com Seguramente!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SeguramenteBusiness/Seguramente_project"><strong>Explora o nosso repositório!»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">Avalia-nos!</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Reporta um bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/SeguramenteBusiness/Seguramente_project/blob/secure-core/Documentos/Controlo%20de%20qualidade.txt">Pede uma funcionalidade</a>
   </p>
 </div>
 
@@ -48,34 +48,32 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Tabela de conteúdos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#Sobre o projeto">Sobre o projeto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Sobre os devs">Sobre os devs</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Começa já!">GComeça já!</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Porquê nós?">Usage</a></li>
+    <li><a href="#Como funciona?">Roadmap</a></li>
+    <li><a href="#Contribuições">Contributing</a></li>
+    <li><a href="#Licencas">License</a></li>
+    <li><a href="#Contactos">Contact</a></li>
+    <li><a href="#Certificados">Acknowledgments</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre o projeto
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -94,7 +92,7 @@ Use the `BLANK_README.md` to get started.
 
 
 
-### Built With
+### Softwares usados
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
@@ -112,7 +110,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Começa já
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -120,12 +118,9 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
-### Installation
+
+### Começa já!
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
@@ -153,7 +148,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Porquê nós?
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -214,7 +209,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Contactos
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
