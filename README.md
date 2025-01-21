@@ -36,11 +36,11 @@
     <a href="https://github.com/SeguramenteBusiness/Seguramente_project"><strong>Explora o nosso repositório</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SeguramenteBusiness/Seguramente_project/blob/secure-core/Documentos/Controlo%20de%20qualidade.txt">Avalia-nos!</a>
+    <a href="https://forms.gle/yzS84GVbRzFxL9786">Avalia-nos!</a>
     ·
-    <a href="https://github.com/SeguramenteBusiness/Seguramente_project/blob/secure-core/Documentos/Controlo%20de%20qualidade.txt">Reporta um bug</a>
+    <a href="https://forms.gle/yzS84GVbRzFxL9786">Reporta um bug</a>
     ·
-    <a href="https://github.com/SeguramenteBusiness/Seguramente_project/blob/secure-core/Documentos/Controlo%20de%20qualidade.txt">Pede uma funcionalidade</a>
+    <a href="https://forms.gle/yzS84GVbRzFxL9786">Pede uma funcionalidade</a>
   </p>
 </div>
 
