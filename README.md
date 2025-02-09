@@ -75,18 +75,11 @@ A Seguramente é uma empresa especializada em treinamentos de cibersegurança pa
 <!-- GETTING STARTED -->
 ## Começa já
 
-(Começa já
+Contacta-nos através dos meios disponibilizados no fim deste READ ME
 
 ### Pre requesitos
 
-(Há?)
-
-
-### Começa já!
-
-_(Meter contactos aqui de exemplo etc etc etc)_
-_(Website tmb)_
-
+Força de vontade para aprender e proteger a tua empresa!
 
 
 <p align="right"><a href="#readme-top">UP!</a></p>
@@ -96,9 +89,21 @@ _(Website tmb)_
 <!-- USAGE EXAMPLES -->
 ## Porquê nós?
 
-(Explicar o porquê de nos escolherem)
+# Por que nós?
 
-(Explicar a necessidade de terem treinamento)
+No **Seguramente**, sabemos que a cibersegurança é um dos pilares fundamentais para a proteção das empresas contra ameaças online. O nosso compromisso é oferecer treinamentos de cibersegurança para atender às necessidades de todos os tipos de utilizadores.
+
+## O que nos diferencia?
+
+- 🔹 **Treinamentos Interativos:** Aulas dinâmicas, testes práticos e simulações realistas para garantir o aprendizado eficaz.  
+- 🔹 **Abordagem Personalizada:** Conteúdos adaptados ao nível de conhecimento de cada colaborador.  
+- 🔹 **Tecnologia Avançada:** Utilizamos as melhores plataformas e ferramentas do mercado para oferecer uma experiência completa.  
+- 🔹 **Prevenção Inteligente:** Os nossos programas ajudam a reduzir riscos e fortalecer a segurança da sua empresa.  
+- 🔹 **Equipa Especializada:** Contamos com especialistas em cibersegurança para fornecer conteúdos atualizados e relevantes.  
+
+Proteja a sua empresa contra ameaças digitais com **Seguramente**.  
+**Os seus funcionários preparados são a sua melhor defesa!** 
+
 
 <p align="right"><a href="#readme-top">UP!</a></p>
 
@@ -107,13 +112,14 @@ _(Website tmb)_
 <!-- ROADMAP -->
 ## Planos futuros
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Gamify
+- [x] Sistema de progresso
+- [ ] Dark mode (por enquanto, usar a extensão "Dark reader")
+- [ ] Sistema de comentários
+- [ ] Suporte de linguas
+    - [ ] Inglês
+- [ ] Modo demo
+- [ ] Sistema de upload de resumos dos utilizadores
 
 Vê a secção de [open issues](https://maze.toys/mazes/mini/daily/) do projeto e ajuda-nos a resolver!
 
