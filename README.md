@@ -62,7 +62,7 @@ A Seguramente é uma empresa especializada em treinamentos de cibersegurança pa
 - Photoshop
 - Figma
 - Premiere
- Para uso futuro:
+ ### Para uso futuro:
 - TalentLMS
 - Blackboard
 - Docebo
