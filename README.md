@@ -59,11 +59,14 @@ A Seguramente é uma empresa especializada em treinamentos de cibersegurança pa
 
 ### Softwares usados
 
-Especificar softwares usados
-(Indicar os próximos também)
-
-* [![Next][Next.js]][Next-url]
-(exemplo formatação acima)
+- Photoshop
+- Figma
+- Premiere
+(Uso futuro)
+- TalentLMS
+- Blackboard
+- Docebo
+- KnowBe4
 
 <p align="right"><a href="#readme-top">UP!</a></p>
 
