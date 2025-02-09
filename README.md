@@ -95,11 +95,11 @@ No **Seguramente**, sabemos que a cibersegurança é um dos pilares fundamentais
 
 ## O que nos diferencia?
 
-- 🔹 **Treinamentos Interativos:** Aulas dinâmicas, testes práticos e simulações realistas para garantir o aprendizado eficaz.  
-- 🔹 **Abordagem Personalizada:** Conteúdos adaptados ao nível de conhecimento de cada colaborador.  
-- 🔹 **Tecnologia Avançada:** Utilizamos as melhores plataformas e ferramentas do mercado para oferecer uma experiência completa.  
-- 🔹 **Prevenção Inteligente:** Os nossos programas ajudam a reduzir riscos e fortalecer a segurança da sua empresa.  
-- 🔹 **Equipa Especializada:** Contamos com especialistas em cibersegurança para fornecer conteúdos atualizados e relevantes.  
+-  **Treinamentos Interativos:** Aulas dinâmicas, testes práticos e simulações realistas para garantir o aprendizado eficaz.  
+-  **Abordagem Personalizada:** Conteúdos adaptados ao nível de conhecimento de cada colaborador.  
+-  **Tecnologia Avançada:** Utilizamos as melhores plataformas e ferramentas do mercado para oferecer uma experiência completa.  
+-  **Prevenção Inteligente:** Os nossos programas ajudam a reduzir riscos e fortalecer a segurança da sua empresa.  
+-  **Equipa Especializada:** Contamos com especialistas em cibersegurança para fornecer conteúdos atualizados e relevantes.  
 
 Proteja a sua empresa contra ameaças digitais com **Seguramente**.  
 **Os seus funcionários preparados são a sua melhor defesa!** 
