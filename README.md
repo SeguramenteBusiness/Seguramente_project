@@ -164,7 +164,7 @@ Link do projeto: [Seguramente](https://github.com/SeguramenteBusiness)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Por enquanto nada!
 
 
 
