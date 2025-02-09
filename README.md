@@ -49,9 +49,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Escrever aqui
-
-Simples e rápdio
+A Seguramente é uma empresa especializada em treinamentos de cibersegurança para empresas. Oferece aulas, testes e simulações para capacitar usuários de todos os níveis, ajudando a prevenir ataques cibernéticos e fortalecer a segurança digital das organizações.
 
 `Contacta-nos` para começar.
 
