@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="Seguramente">
-    <img src="design/logo.png" alt="Logo" width="80" height="80">
+    <!--     NÃO SEI COMO COLOCAR AQUI O LOGO AAAAAA<img src="design/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Seguramente</h3>
